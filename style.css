@@ -1,0 +1,162 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: "Brush Script MT", cursive;
+    font-size: medium;
+}
+section {
+    width: 50%;
+    height: 100vh;
+}
+
+.wrapper {
+    background-color: rgb(131, 101, 182);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+.leftcontainer {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.leftcontain {
+    height: 60%;
+
+}
+
+.lightgray {
+    border-radius: 90px;
+    background-color: azure;
+    margin: 30px auto;
+    border: 0.5px solid #c7b3b3;
+    padding: 10px 40px;
+    font-size: 13px;
+}
+
+#googleicon {
+    margin-right: 10px;
+}
+
+form {
+
+    display: flow-root;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.parent {
+    display: flex;
+    justify-content: space-between;
+}
+#checkboxbutton {
+    margin-top: 02%;
+    width: 10px;
+}
+
+.loginbutton {
+    display: flex;
+    justify-content: center;
+    margin-top: 7px;
+    border: 0.5px solid blue;
+    border-radius: 20px;
+    width: auto;
+    padding: 10px;
+    margin: 10px;
+    background-color: blue;
+}
+
+.registerbutton {
+    display: flex;
+    justify-content: space-between;
+}
+
+.boxwithanchor {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.rightcontainer {
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.boxwith a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+input {
+    border: 0.5px solid #cbbaba;
+    border-radius: 20px;
+    padding: 7px;
+    margin-bottom: 7px;
+
+
+}
+.black{
+    text-indent: 10px;
+}
+.blue
+{
+    background-color: blue;
+}
+h2{
+    padding: 2%;
+}
+
+
+
+
+
+.section {
+    background-color: brown;
+}
+
+#icon {
+    margin: 5px;
+    width: 50%;
+    margin-left: 5px;
+    margin-bottom: 35px;
+
+}
+
+
+#checkboxname {
+    margin: 02%;
+    background-color: black;
+}
+
+
+
+h1 {
+    text-align: left;
+    font-size: 30px;
+}
+.black{
+    color: black;
+    margin: 0%;
+    padding: 0%;
+    font-family: "Brush Script MT", cursive;
+    font-size: medium;
+
+}
+p {
+    color: gray;
+    margin-top: 10px;
+    font-size: 12px;
+}
+#imgid{
+    margin: 10px;
+}
